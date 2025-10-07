@@ -1,5 +1,16 @@
 # React + TypeScript + Vite
 
+To run the app in local:
+npm install
+npm run dev
+
+What could be improved:
+-Styling & CSS
+-Linting of the code
+-Unit test cases
+-setting up CI/CD pipeline
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
